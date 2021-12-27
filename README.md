@@ -1,8 +1,9 @@
 # Google dino
 
-2 weeks
+ I did it in 2 weeks
 
 
-Sort like google dino, but with the king and the monster are pictures of my teacher.
+Sort like google dino, but with the king and the monsters are pictures of my teacher.
 
+fu 
 The art is from Buch and GrafxKid.
