@@ -99,8 +99,6 @@ player_gravity = 0
 game_active = False
 flip_right = True
 score = 0
-
-
 #intro
 blaha_intro = pyg.image.load("Veci/figure/příšery/blahavelky.jpg").convert_alpha()
 blaha_intro = pyg.transform.rotozoom(blaha_intro, 0, 0.4)
