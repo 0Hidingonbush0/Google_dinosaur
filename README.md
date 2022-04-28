@@ -5,5 +5,6 @@
 
 Sort like google dino, but with the king and the monsters are pictures of my teacher.
 
-fu 
+
+
 The art is from Buch and GrafxKid.
